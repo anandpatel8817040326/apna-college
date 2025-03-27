@@ -1,2 +1,3 @@
 # apna-college
-my first repo
+my first repos
+Author Anand patel
